@@ -1,8 +1,8 @@
 package projeto.aparelhos.multitarefa;
 
 import projeto.aparelhos.musicais.ReprodutorMusical;
-import projeto.aparelhos.navegadores.Navegador;
 import projeto.aparelhos.telefonicos.AparelhoTelefonico;
+import projeto.navegadores.Navegador;
 
 public class Iphone implements ReprodutorMusical, Navegador, AparelhoTelefonico{ //implementa todas as interfaces
 

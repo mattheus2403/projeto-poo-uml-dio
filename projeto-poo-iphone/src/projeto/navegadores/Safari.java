@@ -1,4 +1,4 @@
-package projeto.aparelhos.navegadores;
+package projeto.navegadores;
 
 public class Safari implements Navegador { //implementa a interface Navegador
 
