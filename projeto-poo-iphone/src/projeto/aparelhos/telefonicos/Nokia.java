@@ -1,6 +1,6 @@
 package projeto.aparelhos.telefonicos;
 
-public class Telefone implements AparelhoTelefonico{
+public class Nokia implements AparelhoTelefonico{
 
 	@Override
 	public void ligar() {
