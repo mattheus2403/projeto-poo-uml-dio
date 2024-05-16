@@ -6,21 +6,21 @@ public class Safari implements Navegador { //implementa a interface Navegador
 	public void exibirPagina() {
 		// TODO define como o método implementado exibirPagina
 		// irá funcionar
-		System.out.println("Exibindo página no navegador Safari");
+		System.out.println("Exibindo página no navegador Safari por outro dispositivo");
 	}
 
 	@Override
 	public void adicionarNovaAba() {
 		// TODO define como o método implementado adicionarNovaAba
 		// irá funcionar
-		System.out.println("Adicionando nova aba no navegador Safari");
+		System.out.println("Adicionando nova aba no navegador Safari por outro dispositivo");
 	}
 
 	@Override
 	public void atualizarPagina() {
 		// TODO define como o método implementado atualizarPagina
 		// irá funcionar
-		System.out.println("Atualizando página no navegador Safari");
+		System.out.println("Atualizando página no navegador Safari por outro dispositivo");
 	}
 
 }
